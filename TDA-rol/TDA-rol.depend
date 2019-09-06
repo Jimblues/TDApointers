@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1567781957 source:e:\documentos\tda-rol\main.c
+	"personaje.h"
+	"personaje.c"
+	<stdio.h>
+	<stdlib.h>
+
+1567781952 e:\documentos\tda-rol\personaje.h
+
+1567781875 e:\documentos\tda-rol\personaje.c
+	"personaje.h"
+	<stdlib.h>
+	<stdio.h>
+
